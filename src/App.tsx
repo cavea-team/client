@@ -3,7 +3,6 @@ import logo from './logo.svg';
 import './App.scss';
 
 function App() {
-  let text: any = 'new Text';
   return (
     <div className="App">
       <header className="App-header">
